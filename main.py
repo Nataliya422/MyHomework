@@ -22,7 +22,7 @@ print(bad_letters)
 print(iter_count)
 
 all_letter = set(str(cities_set))
-print(all_letter
+print(all_letter)
 
 
 
